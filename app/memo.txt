@@ -1,0 +1,57 @@
+A: anger comtempt disgust sadness fear
+B: neurtral happiness fear
+
+乃木坂
+n-15-1 裸足でSummer B(happiness)
+n-15-2 裸足でSummer B(happiness)
+n-16-1 サヨナラの意味 B(happiness)
+n-16-2 サヨナラの意味 B(happiness)
+n-16-3 サヨナラの意味 B(happiness)
+n-18-1 逃げ水 B(happiness)
+n-18-2 逃げ水 B(happiness)
+n-20-1 シンクロニシティ B(happiness)
+n-20-2 シンクロニシティ B(neurtral)
+n-23-1 Sing Out! B(happiness)
+n-23-2 Sing Out! B(happiness)
+n-24-1 夜明けまで強がらなくてもいい B(happiness)
+n-24-2 夜明けまで強がらなくてもいい B(happiness)
+n-25-1 しあわせの保護色 B(happiness)
+n-25-2 しあわせの保護色 B(happiness)
+
+櫻坂
+s-1-1 サイレントマジョリティー B(neurtral)
+s-1-2 サイレントマジョリティー B(neurtral)
+s-3-2 二人セゾン B(neurtral)
+s-4-1 不協和音 B(neurtral)
+s-4-2 不協和音 B(neurtral)
+s-4-3 不協和音 B(neurtral)
+s-6-1 ガラスを割れ! B(neurtral)
+s-8-1 黒い羊 B(neurtral)
+s-8-2 黒い羊 B(neurtral)
+s-8-3 黒い羊 B(neurtral)
+s-9-1 Nobody's fault B(neurtral)	
+s-9-2 Nobody's fault B(neurtral)	
+
+日向坂
+h-1-1 キュン B(happiness)
+h-1-2 キュン B(happiness)
+h-1-3 キュン B(happiness)
+h-2-1 ドレミソラシド B(happiness)
+h-2-2 ドレミソラシド B(happiness)
+h-2-3 ドレミソラシド B(happiness)
+h-3-1 こんなに好きになっちゃっていいの? B(happiness)
+h-3-2 こんなに好きになっちゃっていいの? B(happiness)
+h-4-1 ソンナコトナイヨ B(happiness)
+h-4-2 ソンナコトナイヨ B(happiness)
+h-4-3 ソンナコトナイヨ B(happiness)
+h-4-4 ソンナコトナイヨ B(happiness)
+
+吉本坂
+y-1-1 泣かせてくれよ B(neurtral)
+y-1-2 泣かせてくれよ B(neurtral)
+y-1-3 泣かせてくれよ B(neurtral)
+y-2-1 今夜はええやん B(neurtral)
+y-2-2 今夜はええやん B(neurtral)
+y-3-1 不能ではいられない B(neurtral)	
+y-3-2 不能ではいられない B(happiness)	
+y-3-3 不能ではいられない B(neurtral)	
